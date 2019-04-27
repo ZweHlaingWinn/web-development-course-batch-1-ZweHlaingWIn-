@@ -1,0 +1,14 @@
+git init
+
+
+git add <file>
+
+git commit -m "Msg"
+
+git status
+
+git push
+
+git pull
+
+git reset --hard (version_ID)
