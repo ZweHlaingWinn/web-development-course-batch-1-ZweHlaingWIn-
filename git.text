@@ -1,14 +1,22 @@
 git init
 
-
 git add <file>
 
 git commit -m "Msg"
 
 git status
 
+git log
+
+git reset --hard
+
+git reset
+
 git push
 
 git pull
 
-git reset --hard (version_ID)
+
+git config --global user.name "Zwe hLaing WIN"
+
+git config --global user.email "johnlast996@gmail.com"
